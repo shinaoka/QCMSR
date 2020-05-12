@@ -2,3 +2,5 @@
 # Site Settings
 locale                   : "ja"
 title                    : "Quantum Computational Material Science Roundtable"
+
+theme: jekyll-theme-cayman
