@@ -1,6 +1,6 @@
 #theme: jekyll-theme-minimal
 # Site Settings
 locale                   : "ja"
-title                    : "Quantum Computational Material Science Roundtable"
+title                    : "Quantum Computational Materials Science Roundtable"
 
 theme: jekyll-theme-cayman
