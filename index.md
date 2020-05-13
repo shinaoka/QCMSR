@@ -14,7 +14,8 @@ Zoomを利用したオンライン座談会です。
 
 * [第1回: 物質科学に量子コンピュータはどう使えるのか？ 講演者: 倉重佑輝](#第1回)
 
-# 第1回 物質科学に量子コンピュータはどう使えるのか？
+## 第1回 物質科学に量子コンピュータはどう使えるのか？
+[登録フォーム](https://docs.google.com/forms/d/1mn4267CXykSaQFMOP6m6JB-b6bPvsurXjU0Bl0zv-l0/edit)<br>
 日時: 2020年5月25日16:00-<br>
 講演者: 倉重佑輝 (京大)<br>
 発表題目: "Quantum chemistry meets quantum computer"
