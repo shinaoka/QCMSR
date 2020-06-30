@@ -2,7 +2,7 @@ Zoomを利用したオンライン座談会です。
 量子計算物質科学を中心に、毎回講師をお招きし、
 設定したテーマに沿った議論・交流を深めるのを目的としています。
 
-<strong>第三回から、講演情報・Zoomリンク配信用のメーリングリストへの登録をお願いすることにしました。次回以降は個別に登録する必要はありません</strong>
+<strong>第三回から、講演情報・Zoomリンク配信用のメーリングリストへの登録をお願いすることになりました。次回以降は個別に登録する必要はありません。</strong>
 
 * 以下のフォームで登録したメールアドレス宛に、毎回Zoomのミーティング、Slackのワークスペースへの招待状を送信します。転載・転送は控えてください。
 *  座談会中、Slackのワークスペース上で質問を受け付けます。
@@ -11,8 +11,8 @@ Zoomを利用したオンライン座談会です。
 * 発表40分 + 議論20分
 
                                                                                                                     
-[講演情報・Zoomリンク配信用のメーリングリストへの登録フォーム](https://docs.google.com/forms/d/1x6p1Q6QMR-i_lD6Qha8lhwdnks47St0xAXjDU771K_k/edit)<br>
-[メーリングリストの登録解除依頼フォーム](https://docs.google.com/forms/d/1puyOtk46mUyLc-R--ZAdSWdwyhj0Y439iIW0XhraANM/edit)<br>
+[講演情報・Zoomリンク配信用のメーリングリストへの登録](https://docs.google.com/forms/d/1x6p1Q6QMR-i_lD6Qha8lhwdnks47St0xAXjDU771K_k/edit)<br>
+[メーリングリストの登録解除](https://docs.google.com/forms/d/1puyOtk46mUyLc-R--ZAdSWdwyhj0Y439iIW0XhraANM/edit)<br>
 
 世話人:　品岡寛 (埼玉大)、大久保毅 (東大)、水上渉（阪大)、大槻純也 (岡山大)、三澤貴宏 (早稲田大)、井戸康太 (東大)、森田悟史 (東大)、杉崎研司 (大阪市立大)、山地洋平 (東大)、藤堂眞治 (東大)（順不同)
 
