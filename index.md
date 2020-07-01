@@ -11,7 +11,7 @@ Zoomを利用したオンライン座談会です。
 * 発表40分 + 議論20分
 
                                                                                                                     
-[講演情報・Zoomリンク配信用のメーリングリストへの登録](https://docs.google.com/forms/d/1x6p1Q6QMR-i_lD6Qha8lhwdnks47St0xAXjDU771K_k/edit)<br>
+**<big>[講演情報・Zoomリンク配信用メーリングリストへの登録](https://docs.google.com/forms/d/1x6p1Q6QMR-i_lD6Qha8lhwdnks47St0xAXjDU771K_k/edit)</big><br>**
 [メーリングリストの登録解除](https://docs.google.com/forms/d/1puyOtk46mUyLc-R--ZAdSWdwyhj0Y439iIW0XhraANM/edit)<br>
 
 世話人:　品岡寛 (埼玉大)、大久保毅 (東大)、水上渉（阪大)、大槻純也 (岡山大)、三澤貴宏 (早稲田大)、井戸康太 (東大)、森田悟史 (東大)、杉崎研司 (大阪市立大)、山地洋平 (東大)、藤堂眞治 (東大)（順不同)
