@@ -14,8 +14,9 @@ Zoomを利用したオンライン座談会です。
 **<big>[講演情報・Zoomリンク配信用メーリングリストへの登録](https://docs.google.com/forms/d/1x6p1Q6QMR-i_lD6Qha8lhwdnks47St0xAXjDU771K_k/edit)</big><br>**
 [メーリングリストからの登録解除](https://docs.google.com/forms/d/1puyOtk46mUyLc-R--ZAdSWdwyhj0Y439iIW0XhraANM/edit)<br>
 
-世話人:　品岡寛 (埼玉大)、大久保毅 (東大)、水上渉（阪大)、大槻純也 (岡山大)、三澤貴宏 (BAQIS)、井戸康太 (東大)、森田悟史 (東大)、杉崎研司 (大阪市立大)、山地洋平 (東大)、藤堂眞治 (東大) 、明石遼介（東大）（順不同)
+世話人:　品岡寛 (埼玉大)、大久保毅 (東大)、水上渉（阪大)、大槻純也 (岡山大)、三澤貴宏 (BAQIS)、井戸康太 (東大)、森田悟史 (東大)、杉崎研司 (大阪市立大)、山地洋平 (東大)、藤堂眞治 (東大) 、明石遼介（東大）、御手洗光祐（阪大)（順不同)
 
+* [第8回: 量子計算物質科学に深層学習はどう使えるのか？ 講演者: David Pfau](#第8回) 
 * [第7回: 続 量子計算物質科学はどこに向かうのか？ 講演者: 三宅隆](#第7回)  
 * [第6回: 物質科学に量子アニーリングマシンはどう使えるのか？ 講演者: 西村光嗣](#第6回)  
 * [第5回: 量子計算物質科学はどこに向かうのか？ 講演者: 塩崎亨](#第5回)  
@@ -23,6 +24,15 @@ Zoomを利用したオンライン座談会です。
 * [第3回: 続 物質科学に量子コンピュータはどう使えるのか？ 講演者: 武田俊太郎](#第3回)  
 * [第2回: 続 物質科学に量子コンピュータはどう使えるのか？ 講演者: 吉岡信行](#第2回)    
 * [第1回: 物質科学に量子コンピュータはどう使えるのか？ 講演者: 倉重佑輝](#第1回)
+
+
+## 第8回 量子計算物質科学に深層学習はどう使えるのか？
+日時: 2021年1月7日18:00-<br>
+講演者: David Pfau（DeepMind)<br>
+発表題目: Deep Neural Networks for Ab Initio Quantum Chemistry <br>
+
+In this talk, I will present work on how ideas from the machine learning community can give back to computational physics, in particular deep neural networks and approximate natural gradient descent. I will present a novel deep neural network architecture, the Fermionic Neural Network (FermiNet), which can be used as an expressive class of approximate solutions (Ansätze) to the Schrödinger equation for many-electron systems. We optimize the FermiNet by Kronecker-Factorized Approximate Curvature (KFAC), an approximation to natural gradient descent which can also be used to approximate stochastic reconfiguration. This makes it possible to scale stochastic reconfiguration to Ansätze with large numbers of parameters. We show that the FermiNet is able to achieve much higher accuracy than standard variational QMC Ansätze like the Slater-Jastrow-backflow ansatz, and can exceed the accuracy of coupled cluster methods like CCSD(T) on bond-breaking systems like the transition of bicyclobutane to butadiene. This shows that deep neural networks can be used to greatly improve the accuracy of variational QMC, to the point where it is competitive with other state-of-the-art ab initio methods.
+
 
 ## 第7回 続 量子計算物質科学はどこに向かうのか？
 日時: 2020年11月30日16:00-<br>
