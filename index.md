@@ -12,7 +12,6 @@ Zoomを利用したオンライン座談会です。
 
                                                                                                                     
 **<big>[講演情報・Zoomリンク配信用メーリングリストへの登録](https://docs.google.com/forms/d/1x6p1Q6QMR-i_lD6Qha8lhwdnks47St0xAXjDU771K_k/edit)</big><br>**
-[メーリングリストからの登録解除](https://docs.google.com/forms/d/1puyOtk46mUyLc-R--ZAdSWdwyhj0Y439iIW0XhraANM/edit)<br>
 
 世話人:　品岡寛 (埼玉大)、大久保毅 (東大)、水上渉（阪大)、大槻純也 (岡山大)、三澤貴宏 (BAQIS)、井戸康太 (東大)、森田悟史 (東大)、杉崎研司 (大阪市立大)、山地洋平 (東大)、藤堂眞治 (東大) 、明石遼介（東大）、御手洗光祐（阪大)、三宅隆（産総研)（順不同)
 
