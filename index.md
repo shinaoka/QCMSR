@@ -34,6 +34,8 @@ Zoomを利用したオンライン座談会です。
 講演者：中郷 孝祐（PFN)<br>
 発表題目：PFP：材料探索のための汎用Neural Network Potential <br>
 
+[スライド](https://www.slideshare.net/pfi/pfpneural-network-potential-2021104-qcmsr-dlap)
+
 Neural Network Potential (NNP)は、Neural Network を用いて分子動力学ポテンシャルを表現するものである。本セミナーではNNP研究の流れを振り返り、どのようにNNP開発のためのデータセット収集やNeural Networkの取扱いが発展してきたのかを紹介する。<br> 
 後半では、多種多様な系に対して適用可能となるように開発した汎用NNPであるPFP [1]についての解説を行う。また、PFPを用いた事例としてどのような材料探索が行えるかをその応用的な使い方とともに紹介する。<br> 
 [1] PFP: Universal Neural Network Potential for Material Discovery
